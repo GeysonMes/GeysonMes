@@ -9,7 +9,6 @@
  <div align="center">
   <a href="https://github.com/GeysonMes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeysonMes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeysonMes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div align="center" style="display: inline_block"><br >
       <h2>Tecnologias</h2>
