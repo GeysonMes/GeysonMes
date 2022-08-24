@@ -1,7 +1,7 @@
 <h1>Olá! eu me chamo Geyson 🧑</h1>
     <i>Seja bem vindo ao meu GitHub</i> 👋
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais, e aprimorando as minhas hards skills em front end e desenvolvendo também, habilidade em back end. 
+- 🔭 Atualmente estou Cursando tecnico em informática para internet, e estou realizando projetos pessoais, e aprimorando as minhas hards skills em front end e desenvolvendo também, habilidade em back end. 
 - 🌱 Sou formado em desenvolvimento web full stack pelo bootcamp da Labenu, onde me identifiquei bastante com front end. 
 - 📫 Entre em contato comigo através: geysonsousa17@gmail.com
 - 😄 Pronomes :ELE/DELE
